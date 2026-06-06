@@ -193,10 +193,10 @@ Specialized for code generation, completion, and analysis.
 - [Granite Code (IBM)](https://huggingface.co/ibm-granite/granite-8b-code) — IBM's enterprise-grade code model, available in multiple sizes. Apache 2.0.
 - [Phi-4-mini (Microsoft)](https://huggingface.co/microsoft/Phi-4-mini-instruct) — Lightweight model optimized for reasoning and code. Punches above its weight class. MIT license.
 - [Qwen3-Coder-Next (Alibaba)](https://huggingface.co/Qwen/Qwen3-Coder-Next) — **Early 2026.** Latest generation of Qwen's code series. Strong reasoning and long-context coding capabilities. Apache 2.0.
-- [CodeLlama (Meta)](https://huggingface.co/meta-llama/CodeLlama-7b-hf) — **Aug 2023.** Llama 2-based code generation pioneer. Supports infilling, completion, and instruction. Llama Community License.
-- [WizardCoder (WizardLM)](https://huggingface.co/WizardLMTeam/WizardCoder-15B-V1.0) — **2023.** Evol-Instruct fine-tuned for complex coding tasks. Strong general code generation performance.
-- [OpenCodeInterpreter](https://huggingface.co/m-a-p/OpenCodeInterpreter-DS-6.7B) — **2024.** Integrates execution feedback to iteratively improve generated code. Bridges generation and execution.
-- [Stable Code 3B (Stability AI)](https://huggingface.co/stabilityai/stable-code-3b) — **Aug 2023.** Lightweight 3B code model optimized for fill-in-the-middle. Efficient for local autocompletion.
+- [CodeLlama (Meta)](https://huggingface.co/meta-llama/CodeLlama-7b-hf) — **Aug 2023.** Llama 2-based code generation pioneer. Supports infilling, completion, and instruction. Llama 2 Community License.
+- [WizardCoder (WizardLM)](https://huggingface.co/WizardLMTeam/WizardCoder-15B-V1.0) — **2023.** Evol-Instruct fine-tuned for complex coding tasks. Strong general code generation performance. Apache 2.0.
+- [OpenCodeInterpreter](https://huggingface.co/m-a-p/OpenCodeInterpreter-DS-6.7B) — **2024.** Integrates execution feedback to iteratively improve generated code. Bridges generation and execution. Apache 2.0.
+- [Stable Code 3B (Stability AI)](https://huggingface.co/stabilityai/stable-code-3b) — **Aug 2023.** Lightweight 3B code model optimized for fill-in-the-middle. Efficient for local autocompletion. StabilityAI license.
 - [CodeGeeX2 (THUDM)](https://huggingface.co/THUDM/codegeex2-6b) — **2023.** Multilingual code model supporting 20+ languages. Strong in both Chinese and English code tasks. Apache 2.0.
 - [CodeT5+ (Salesforce)](https://huggingface.co/Salesforce/codet5p-16b) — **2023.** Encoder-decoder architecture unifying code generation, completion, and understanding. BSD-3 license.
 - [SantaCoder (BigCode)](https://huggingface.co/bigcode/santacoder) — **2023.** Light 1.1B model specialized for Python, Java, and JavaScript. Fast and efficient for IDE integration.
