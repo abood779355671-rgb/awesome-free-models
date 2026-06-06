@@ -3,7 +3,7 @@
 > A curated list of free AI models, APIs, and tools you can use without paying a cent.
 
 ![Last Updated](https://img.shields.io/badge/Last%20Checked-June%206%2C%202026-brightgreen?style=for-the-badge)
-![Models](https://img.shields.io/badge/Models-7-blue?style=flat-square)
+![Models](https://img.shields.io/badge/Models-9-blue?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-50%2B-blue?style=flat-square)
 ![Sections](https://img.shields.io/badge/Sections-15-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)
@@ -47,6 +47,8 @@ Open-weight models released since March 2026 that you can download and run on yo
 - [GLM-5.1 (Zhipu AI)](https://huggingface.co/THUDM) — 744B MoE model, competitive with top proprietary models. MIT license.
 - [MiniMax M3](https://huggingface.co/Minimax) — Frontier-tier 1M context, native multimodal + computer use. MSA architecture.
 - [Trinity (Arcee AI)](https://huggingface.co/arcee-ai) — 400B parameter enterprise model. Apache 2.0.
+- [Step 3.7 Flash (StepFun)](https://huggingface.co/stepfun-ai) — **May 2026.** Apache 2.0. Native multimodal (image+video), strong agentic performance. Efficient enough for high-end local hardware.
+- [Kimi K2.6 (Moonshot AI)](https://huggingface.co/moonshotai) — **Apr 2026.** 1T-parameter MoE model. Modified MIT license. Exceptional coding (SWE-Bench ~54%) and multi-agent swarm orchestration.
 
 ---
 
@@ -129,6 +131,7 @@ Free tools that integrate AI into your development workflow.
 - [Cursor 3](https://www.cursor.com/) — **Apr 2026.** AI-native code editor with deep model integration and agentic features. Free tier available.
 - [OpenCode](https://opencode.ai/) — Go-based terminal AI coding assistant. Model-neutral, supports multiple LLM providers, LSP integration, and MCP tools. [GitHub](https://github.com/opencode-ai/opencode)
 - [CodeBuff](https://www.codebuff.com/) — CLI-based AI coding assistant that understands entire codebases. Multi-agent architecture, works with any model provider through natural language instructions.
+- [Pi](https://pi.dev/) — Open-source terminal AI coding agent with a unified multi-provider API. Model-agnostic, supports OpenAI, Anthropic, Google, and any OpenAI-compatible endpoint. Extensible plugin architecture. [GitHub](https://github.com/earendil-works/pi)
 
 ---
 
