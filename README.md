@@ -3,7 +3,7 @@
 > A curated list of free AI models, APIs, and tools you can use without paying a cent.
 
 ![Last Updated](https://img.shields.io/badge/Last%20Checked-June%206%2C%202026-brightgreen?style=for-the-badge)
-![Models](https://img.shields.io/badge/Models-18-blue?style=flat-square)
+![Models](https://img.shields.io/badge/Models-21-blue?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-50%2B-blue?style=flat-square)
 ![Sections](https://img.shields.io/badge/Sections-15-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)
@@ -42,6 +42,7 @@ Open-weight models released since March 2026 that you can download and run on yo
 
 - [Llama 4 Scout / Maverick](https://huggingface.co/meta-llama) — Meta's latest MoE generation. Scout: 109B, 10M context. Maverick: 402B, 1M context. Native multimodal. [[License]](https://github.com/facebookresearch/llama/blob/main/LICENSE)
 - [DeepSeek V4](https://huggingface.co/deepseek-ai) — Latest generation with extreme cost-efficiency. MIT license.
+- [DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash) — **Apr 2026.** Efficiency-focused variant of DeepSeek V4. 1M token context, optimized for fast inference. MIT license.
 - [Gemma 4 31B / 26B MoE / E4B / E2B](https://huggingface.co/google) — Fully permissive Apache 2.0. 256K context, native multimodal. New standard for open-weight.
 - [GLM-5.1 (Zhipu AI)](https://huggingface.co/THUDM) — 744B MoE model, competitive with top proprietary models. MIT license.
 - [MiniMax M3](https://huggingface.co/Minimax) — Frontier-tier 1M context, native multimodal + computer use. MSA architecture.
@@ -50,6 +51,8 @@ Open-weight models released since March 2026 that you can download and run on yo
 - [Kimi K2.6 (Moonshot AI)](https://huggingface.co/moonshotai) — **Apr 2026.** 1T-parameter MoE model. Modified MIT license. Exceptional coding (SWE-Bench ~54%) and multi-agent swarm orchestration.
 - [Qwen 3.6-35B-A3B](https://huggingface.co/Qwen/Qwen3.6-35B-A3B) — **Apr 2026.** MoE variant with only 3B active parameters. Extremely efficient for consumer hardware. Apache 2.0.
 - [InternLM 3 (Shanghai AI Lab)](https://huggingface.co/internlm) — **Early 2026.** Strong long-context reasoning and agentic performance. Competitive in open-weight benchmarks.
+- [MiMo-V2.5-Pro (Xiaomi)](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro) — **Apr 2026.** 1.02T-parameter MoE (42B active). Optimized for complex agentic tasks, coding, and long-context.
+- [Bonsai 8B (PrismML)](https://huggingface.co/prism-ml/Bonsai-8B-gguf) — **Apr 2026.** Groundbreaking 1-bit quantized model. Extremely efficient for edge and consumer hardware (Apple Silicon).
 
 ---
 
