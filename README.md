@@ -106,6 +106,14 @@ Run models on your own machine — no API keys needed, full privacy.
 - [ExLlamaV2](https://github.com/turboderp/exllamav2) — Optimized inference for Llama-family models. Fastest option for single-GPU inference.
 - [Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine) — High-performance LLM serving engine with advanced quantization support.
 - [TabbyAPI](https://github.com/theroyallab/tabbyAPI) — Lightweight, fast OpenAI-compatible API server for ExLlamaV2.
+- [LlamaEdge](https://llamaedge.com/) — Lightweight inference framework for edge devices. OpenAI-compatible API for open-source models. Runs on WasmEdge for portability. [GitHub](https://github.com/LlamaEdge/LlamaEdge)
+- [MLC LLM](https://github.com/mlc-ai/mlc-llm) — Universal deployment engine by UW/SJTU. Runs LLMs on any hardware — laptops, phones, browsers. OpenAI-compatible API.
+- [WebLLM](https://github.com/mlc-ai/web-llm) — In-browser LLM inference via WebGPU. Runs models directly in your browser with zero setup. No server needed.
+- [FastChat (LMSYS)](https://github.com/lm-sys/FastChat) — Open platform for training, serving, and evaluating LLMs. Provides OpenAI-compatible API and web UI for local models.
+- [Hugging Face TGI](https://github.com/huggingface/text-generation-inference) — Production-grade serving toolkit for large language models. Optimized for high throughput on local hardware.
+- [DeepSpeed (Microsoft)](https://github.com/microsoft/DeepSpeed) — Deep learning optimization library with inference acceleration. Enables running larger models on limited hardware through ZeRO optimization.
+- [AirLLM](https://github.com/lyogavin/airllm) — Run large models (70B+) on consumer hardware with limited memory. Loads models layer-by-layer for extreme memory efficiency.
+- [AI Toolkit for VS Code (Microsoft)](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) — VS Code extension to browse, test, fine-tune, and deploy models locally. Integrates ONNX and llama.cpp.
 
 ---
 
