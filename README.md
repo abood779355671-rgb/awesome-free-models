@@ -92,6 +92,7 @@ Providers offering free tiers to access models via API — no local hardware req
 | [Ollama Cloud](https://ollama.com/cloud) | Free tier for running open-source models on Ollama's cloud infrastructure. Light usage included, 1 concurrent model. Same `ollama run` command as local. Zero data retention. |
 | [OpenAI API](https://platform.openai.com/) | **~$5 trial credits** for new API accounts. Access GPT-4o, GPT-4.1, o3, and more. Rate-limited free tier available after credits expire. |
 | [Mistral AI (La Plateforme)](https://mistral.ai/) | Free API tier with access to Mistral Large, Mistral Nemo, Codestral and more. 1 req/s, 500k tokens/min. Requires phone verification and data usage opt-in. |
+| [Model Router](https://api.lxg2it.com/) | Free API with intent-based routing across Groq and Cerebras models (Llama 4 Scout, DeepSeek, Qwen, Nemotron) — no credit card, no trial credits. Set `prefer=cheap|fast|quality|coding` instead of model names. Drop-in OpenAI replacement with auto failover. |
 | [Cohere](https://cohere.com/) | Free evaluation API key for Command R, Command R+, Embed, and Rerank models. 20 req/min, 1,000 req/month. |
 | [DeepSeek Platform](https://deepseek.com/) | Free API credits for new users (5M tokens). Access to DeepSeek V4, DeepSeek-R1, and other models. Generous free allocation. |
 | [GitHub Models](https://github.com/marketplace/models) | Free tier for GitHub users. Access GPT-4o, Llama 3.3, Mistral, and more with rate-limited playground and API. |
