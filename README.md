@@ -8,7 +8,7 @@
 ![Sections](https://img.shields.io/badge/Sections-16-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)
 
-> ✅ All links verified live on June 16, 2026. 7 broken links found during this check (1 removed).
+> ✅ All links verified live on June 19, 2026. broken links found during this check (all are removed).
 
 Running AI shouldn't require a credit card. This list curates genuinely free models — open-weight models you can self-host, free API tiers from major providers, and tools to run everything locally.
 
