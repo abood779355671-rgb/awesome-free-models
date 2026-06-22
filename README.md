@@ -4,7 +4,7 @@
 
 ![Last Updated](https://img.shields.io/badge/Last%20Checked-June%2022%2C%202026-brightgreen?style=for-the-badge)
 ![Models](https://img.shields.io/badge/Models-36-blue?style=flat-square)
-![Tools](https://img.shields.io/badge/Tools-219-blue?style=flat-square)
+![Tools](https://img.shields.io/badge/Tools-216-blue?style=flat-square)
 ![Sections](https://img.shields.io/badge/Sections-17-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)
 
@@ -183,7 +183,6 @@ General-purpose terminal-based AI tools — chat, summarization, file operations
 | [Hai](https://github.com/aianyai/hai) | Lightweight terminal AI agent. Run commands or ask questions. Supports OpenAI, Claude, Gemini, DeepSeek, and more. Streaming output, pipe support, predefined prompts. GPL-3.0. |
 | [Tuillem](https://github.com/seesee/tuillem) | 3-pane terminal AI chat client. Switch providers and models mid-conversation. Full markdown rendering, SQLite history with full-text search. Plugin system. |
 | [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Nous Research's open-source terminal AI agent. Full TUI with slash commands, 40+ tools, persistent memory. Multi-platform gateway (Telegram, Discord, Slack). Apache 2.0. |
-| [Saarthi](https://github.com/snehangshu2002/saarthi-cli) | LangGraph-powered CLI chatbot with persistent memory, multi-agent delegation, MCP integration, and dynamic skill system. Local-first architecture. |
 | [Freebuff](https://freebuff.com/) | An AI-powered CLI, supported by ads, with multi-agent orchestration. |
 
 ---
@@ -198,7 +197,7 @@ Free tools that integrate AI into your development workflow.
 |------|-------------|
 | [Continue.dev](https://continue.dev/) | Open-source AI code assistant. Chat, autocomplete, and edit with any model. [GitHub](https://github.com/continuedev/continue) |
 | [Aider](https://aider.chat/) | AI pair programming in the terminal. Edits code in your local git repo. Supports GPT, Claude, and local models. [GitHub](https://github.com/Aider-AI/aider) |
-| [Devin Desktop (formerly Windsurf/Codeium)](https://windsurf.com/) | AI code editor with autocomplete, chat, and search. Now by Cognition. Free tier available. Pro $20/mo. |
+ki| [Devin Desktop (formerly Windsurf/Codeium)](https://windsurf.com/) | AI code editor with autocomplete, chat, and search. Now by Cognition. Free tier available. Pro $20/mo. |
 | [Tabby](https://www.tabbyml.com/) | Self-hosted AI coding assistant with no dependency on external services. [GitHub](https://github.com/TabbyML/tabby) |
 | [Cody (Sourcegraph)](https://sourcegraph.com/docs/cody) | Free tier for individuals. Chat, autocomplete, and commands with codebase context. |
 | [Llama Coder (Nutlope)](https://llamacoder.together.ai/) | Free AI code generation tool. Generate entire apps from prompts. |
