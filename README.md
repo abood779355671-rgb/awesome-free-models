@@ -2,13 +2,13 @@
 
 > A curated list of free AI models, APIs, and tools you can use without paying a cent.
 
-![Last Updated](https://img.shields.io/badge/Last%20Checked-June%2021%2C%202026-brightgreen?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last%20Checked-June%2022%2C%202026-brightgreen?style=for-the-badge)
 ![Models](https://img.shields.io/badge/Models-36-blue?style=flat-square)
-![Tools](https://img.shields.io/badge/Tools-219-blue?style=flat-square)
+![Tools](https://img.shields.io/badge/Tools-216-blue?style=flat-square)
 ![Sections](https://img.shields.io/badge/Sections-17-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)
 
-> ✅ All links verified live on June 21, 2026. ~200 URLs checked. 1 broken link, 2 archived repos, 14 domain renames, 12 GitHub org renames (redirects updated), 5 inaccurate descriptions, 3 unmaintained projects, 1 pricing change.
+> ✅ All links verified live on June 22, 2026. ~200 URLs checked. 1 broken link, 3 archived repos, 14 domain renames, 12 GitHub org renames (redirects updated), 6 inaccurate descriptions, 3 unmaintained projects, 1 pricing change.
 
 Running AI shouldn't require a credit card. This list curates genuinely free models — open-weight models you can self-host, free API tiers from major providers, and tools to run everything locally.
 
@@ -38,7 +38,7 @@ Running AI shouldn't require a credit card. This list curates genuinely free mod
 
 ## 🧠 Open-Weight Models
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 Notable open-weight models you can download and run on your own hardware.
 
@@ -70,7 +70,7 @@ Notable open-weight models you can download and run on your own hardware.
 
 ## 🔌 Free API Providers
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 Providers offering free tiers to access models via API — no local hardware required.
 
@@ -117,7 +117,7 @@ Providers offering free tiers to access models via API — no local hardware req
 
 ## 💻 Local Inference Tools
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 Run models on your own machine — no API keys needed, full privacy.
 
@@ -152,7 +152,7 @@ Run models on your own machine — no API keys needed, full privacy.
 
 ## 💬 AI Chatbot UIs
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 Free, open-source web interfaces for chatting with AI models — self-host or use hosted versions.
 
@@ -170,7 +170,7 @@ Free, open-source web interfaces for chatting with AI models — self-host or us
 
 ## 🖥 AI CLI Tools
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 General-purpose terminal-based AI tools — chat, summarization, file operations, and more.
 
@@ -179,18 +179,15 @@ General-purpose terminal-based AI tools — chat, summarization, file operations
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google's open-source terminal AI agent. **1,000 requests/day free** on personal Google account. General-purpose agent for code, chat, and shell tasks. Apache 2.0. [GitHub](https://github.com/google-gemini/gemini-cli) |
 | [OpenCode](https://opencode.ai/) | ⚠️ **Archived.** Go-based terminal AI agent. Model-neutral, supports 75+ LLM providers, LSP integration, and MCP tools. MIT. [GitHub](https://github.com/opencode-ai/opencode) |
 | [Pi](https://pi.dev/) | Open-source terminal AI agent with unified multi-provider API. Model-agnostic, extensible plugin architecture. [GitHub](https://github.com/earendil-works/pi) |
-| [MiMo Code](https://mimo.xiaomi.com/mimocode) | Xiaomi's terminal AI tool with persistent memory, multi-agent orchestration, and 1M-token context. Free tier available. [GitHub](https://github.com/KoinaAI/MiMo-CLI) |
-| [Hai](https://github.com/aianyai/hai) | Lightweight terminal AI agent. Run commands or ask questions. Supports OpenAI, Claude, Gemini, DeepSeek, and more. Streaming output, pipe support, predefined prompts. GPL-3.0. |
-| [Tuillem](https://github.com/seesee/tuillem) | 3-pane terminal AI chat client. Switch providers and models mid-conversation. Full markdown rendering, SQLite history with full-text search. Plugin system. |
+| [MiMo Code](https://mimo.xiaomi.com/mimocode) | Xiaomi's terminal AI tool with persistent memory, multi-agent orchestration, and 1M-token context. Free tier available. |
 | [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Nous Research's open-source terminal AI agent. Full TUI with slash commands, 40+ tools, persistent memory. Multi-platform gateway (Telegram, Discord, Slack). Apache 2.0. |
-| [Saarthi](https://github.com/snehangshu2002/saarthi-cli) | LangGraph-powered CLI chatbot with persistent memory, multi-agent delegation, MCP integration, and dynamic skill system. Local-first architecture. |
 | [Freebuff](https://freebuff.com/) | An AI-powered CLI, supported by ads, with multi-agent orchestration. |
 
 ---
 
 ## 🤖 AI Coding Assistants
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 Free tools that integrate AI into your development workflow.
 
@@ -198,7 +195,7 @@ Free tools that integrate AI into your development workflow.
 |------|-------------|
 | [Continue.dev](https://continue.dev/) | Open-source AI code assistant. Chat, autocomplete, and edit with any model. [GitHub](https://github.com/continuedev/continue) |
 | [Aider](https://aider.chat/) | AI pair programming in the terminal. Edits code in your local git repo. Supports GPT, Claude, and local models. [GitHub](https://github.com/Aider-AI/aider) |
-| [Windsurf (formerly Codeium)](https://windsurf.com/) | AI code editor with autocomplete, chat, and search. Free tier available. |
+| [Windsurf (now Devin Desktop)](https://devin.ai/desktop) | ⚠️ **Acquired by Cognition.** Formerly Codeium, then Windsurf, now Devin Desktop. AI code editor with autocomplete, chat, and search. Free tier available. |
 | [Tabby](https://www.tabbyml.com/) | Self-hosted AI coding assistant with no dependency on external services. [GitHub](https://github.com/TabbyML/tabby) |
 | [Cody (Sourcegraph)](https://sourcegraph.com/docs/cody) | Free tier for individuals. Chat, autocomplete, and commands with codebase context. |
 | [Llama Coder (Nutlope)](https://llamacoder.together.ai/) | Free AI code generation tool. Generate entire apps from prompts. |
@@ -209,13 +206,13 @@ Free tools that integrate AI into your development workflow.
 | [Cline](https://cline.bot/) | Popular autonomous VS Code agent. Creates/edits files, runs terminal commands, browses web. Open-source, BYOK (bring your own API key). [GitHub](https://github.com/cline/cline) |
 | [OpenHands](https://openhands.dev/) | Autonomous AI software engineer. Navigates file systems, runs shell commands, tests code in browser. Self-hostable. [GitHub](https://github.com/OpenHands/OpenHands) |
 | [Kodu (Claude Coder)](https://github.com/kodu-ai/claude-coder) | VS Code autonomous coding agent. Builds projects from scratch, handles complex tasks with natural language. |
-| [Goose](https://goose-docs.ai/) | Open-source CLI agent for complex software engineering tasks. Extensible plugin system. Built by Block/Square. [GitHub](https://github.com/aaif-goose/goose) |
+| [Goose](https://goose-docs.ai/) | Open-source CLI agent for complex software engineering tasks. Extensible plugin system. Originally by Block/Square, now part of the Agentic AI Foundation (AAIF) at the Linux Foundation. [GitHub](https://github.com/aaif-goose/goose) |
 
 ---
 
 ## 📝 Code Models
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 Specialized for code generation, completion, and analysis.
 
@@ -241,7 +238,7 @@ Specialized for code generation, completion, and analysis.
 
 ## 🔍 RAG & Vector Databases
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 Free tools for building retrieval-augmented generation pipelines — vector storage, embedding search, and document retrieval.
 
@@ -265,7 +262,7 @@ Free tools for building retrieval-augmented generation pipelines — vector stor
 
 ## 🧩 Agentic Frameworks
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 Free, open-source frameworks for building AI agents and multi-agent systems.
 
@@ -307,7 +304,7 @@ Free, open-source frameworks for building AI agents and multi-agent systems.
 
 ## 🎛 Fine-tuning Tools
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 Tools to fine-tune free models on your own data — all free and open-source.
 
@@ -331,7 +328,7 @@ Tools to fine-tune free models on your own data — all free and open-source.
 
 ## ✨ Prompt Engineering Tools
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 Free tools for testing, managing, and optimizing prompts.
 
@@ -353,7 +350,7 @@ Free tools for testing, managing, and optimizing prompts.
 
 ## 📊 Datasets
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 Free, open datasets for training, fine-tuning, and evaluating models.
 
@@ -375,7 +372,7 @@ Free, open datasets for training, fine-tuning, and evaluating models.
 
 ## ☁ Model Hosting Platforms
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 Free platforms that host models — run inference without downloading anything.
 
@@ -397,7 +394,7 @@ Free platforms that host models — run inference without downloading anything.
 
 ## 🏖️ Core AI Execution Sandboxes
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 Free, isolated sandbox environments for executing AI agent code, running untrusted scripts, and building agent workflows — no infrastructure to manage.
 
@@ -417,7 +414,7 @@ Free, isolated sandbox environments for executing AI agent code, running untrust
 
 ## 📚 Learning Resources
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 Free courses, books, and tutorials for learning AI and LLMs.
 
@@ -438,7 +435,7 @@ Free courses, books, and tutorials for learning AI and LLMs.
 
 ## 🏆 Resources & Leaderboards
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 | Name | Description |
 |------|-------------|
@@ -456,7 +453,7 @@ Free courses, books, and tutorials for learning AI and LLMs.
 
 ## 👥 Communities
 
-> 📅 Last checked: June 21, 2026
+> 📅 Last checked: June 22, 2026
 
 | Name | Description |
 |------|-------------|
