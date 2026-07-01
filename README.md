@@ -71,6 +71,7 @@ Providers offering free tiers to access models via API — no local hardware req
 
 - [Google AI Studio](https://aistudio.google.com/) — **Most generous free tier.** Access Gemini 2.5 Flash, Gemini 2.0 Flash, and other models. Generous rate limits for prototyping.
 - [OpenRouter](https://openrouter.ai/) — Aggregates 500+ models. Filter by "Free" to see models available at no cost. Includes experimental and subsidized open-weight models.
+- [AnyAPI](https://anyapi.ai/) — 15+ free models with OpenAI-compatible API. Includes llama-3.3-70b-instruct, nemotron-3-ultra-550b-a55b, qwen3-coder, and more. 20 RPM, 200 RPD. No credit card required.
 - [Groq](https://console.groq.com/) — Ultra-fast inference. Free tier includes Llama, Gemma, Mixtral, Whisper models with generous daily rate limits.
 - [Hugging Face Inference API](https://huggingface.co/inference-api) — Free tier for thousands of community models. Rate-limited but excellent for testing.
 - [NVIDIA NIM](https://build.nvidia.com/) — Free API access to accelerated versions of Llama, Mistral, Gemma, and more on NVIDIA infrastructure.
