@@ -2,13 +2,13 @@
 
 > A curated list of free AI models, APIs, and tools you can use without paying a cent.
 
-![Last Updated](https://img.shields.io/badge/Last%20Checked-June%2028%2C%202026-brightgreen?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last%20Checked-July%204%2C%202026-brightgreen?style=for-the-badge)
 ![Models](https://img.shields.io/badge/Models-29-blue?style=flat-square)
-![Tools](https://img.shields.io/badge/Tools-149-blue?style=flat-square)
+![Tools](https://img.shields.io/badge/Tools-135-blue?style=flat-square)
 ![Sections](https://img.shields.io/badge/Sections-15-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)
 
-> ✅ All links verified live on June 28, 2026. 5 broken links found and fixed: agno-org→agno-agi, mistralai/codestral removed, Common Corpus and RLAIF-V noted as requiring login, CatGPT removed (domain dead), lmarena.ai→arena.ai corrected.
+> ✅ All links verified live on July 4, 2026. 14 entries removed (archived/dead), 20+ URLs updated for org renames, 6 acquisitions/rebrands noted.
 
 Running AI shouldn't require a credit card. This list curates genuinely free models — open-weight models you can self-host, free API tiers from major providers, and tools to run everything locally.
 
