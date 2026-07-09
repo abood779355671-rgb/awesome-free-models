@@ -2,13 +2,13 @@
 
 > A curated list of free AI models, APIs, and tools you can use without paying a cent.
 
-![Last Updated](https://img.shields.io/badge/Last%20Checked-July%204%2C%202026-brightgreen?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last%20Checked-July%209%2C%202026-brightgreen?style=for-the-badge)
 ![Models](https://img.shields.io/badge/Models-29-blue?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-135-blue?style=flat-square)
 ![Sections](https://img.shields.io/badge/Sections-15-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)
 
-> ✅ All links verified live on July 4, 2026. 14 entries removed (archived/dead), 20+ URLs updated for org renames, 6 acquisitions/rebrands noted.
+> ✅ All links verified live on July 9, 2026. 14 entries removed (archived/dead), 20+ URLs updated for org renames, 6 acquisitions/rebrands noted.
 
 Running AI shouldn't require a credit card. This list curates genuinely free models — open-weight models you can self-host, free API tiers from major providers, and tools to run everything locally.
 
@@ -36,7 +36,7 @@ Running AI shouldn't require a credit card. This list curates genuinely free mod
 
 ## 🧠 Open-Weight Models
 
-> 📅 Last checked: July 4, 2026
+> 📅 Last checked: July 9, 2026
 
 Notable open-weight models you can download and run on your own hardware.
 
@@ -65,13 +65,13 @@ Notable open-weight models you can download and run on your own hardware.
 
 ## 🔌 Free API Providers
 
-> 📅 Last checked: July 4, 2026
+> 📅 Last checked: July 9, 2026
 
 Providers offering free tiers to access models via API — no local hardware required.
 
 - [Google AI Studio](https://aistudio.google.com/) — **Most generous free tier.** Access Gemini 2.5 Flash, Gemini 2.0 Flash, and other models. Generous rate limits for prototyping.
 - [OpenRouter](https://openrouter.ai/) — Aggregates 500+ models. Filter by "Free" to see models available at no cost. Includes experimental and subsidized open-weight models.
-- [AnyAPI](https://anyapi.ai/) — 15+ free models with OpenAI-compatible API. Includes llama-3.3-70b-instruct, nemotron-3-ultra-550b-a55b, qwen3-coder, and more. 20 RPM, 200 RPD. No credit card required.
+- [AnyAPI](https://anyapi.ai/) — 400+ models with OpenAI-compatible API. Free tier: 100K tokens/day, unlimited users. Includes free and basic models. No credit card required.
 - [Groq](https://console.groq.com/) — Ultra-fast inference. Free tier includes Llama, Gemma, Mixtral, Whisper models with generous daily rate limits.
 - [Hugging Face Inference Providers](https://huggingface.co/inference-api) — Free tier for thousands of community models. Rate-limited but excellent for testing.
 - [NVIDIA NIM](https://build.nvidia.com/) — Free API access to accelerated versions of Llama, Mistral, Gemma, and more on NVIDIA infrastructure.
@@ -83,7 +83,7 @@ Providers offering free tiers to access models via API — no local hardware req
 - [Replicate](https://replicate.com/) — Free tier with limited credits for running open-source models.
 - [Poe (Quora)](https://poe.com/) — Free tier with daily credits for GPT-4 mini, Claude instant, and community bots.
 - [Qwen Studio (Alibaba)](https://chat.qwen.ai/) — Free access to Qwen 3.6-Plus, Qwen 3.6-Max, and other Qwen models via web chat and API. 1M token context for agentic coding.
-- [Ollama Cloud](https://ollama.com/cloud) — Free tier for running open-source models on Ollama's cloud infrastructure. Light usage included, 1 concurrent model. Same `ollama run` command as local. Zero data retention.
+- [Ollama Cloud](https://ollama.com/cloud) — Free tier for running open-source models on Ollama's cloud infrastructure. Light usage with session limits (reset every 5 hours) and weekly limits. 1 concurrent model. Same `ollama run` command as local. Prompt/response data never logged or trained on.
 - [Mistral AI (La Plateforme)](https://mistral.ai/) — Free API tier with access to Mistral Large, Mistral Nemo, Codestral and more. 1 req/s, 500k tokens/min. Requires phone verification and data usage opt-in.
 - [Cohere](https://cohere.com/) — Free evaluation API key for Command R, Command R+, Embed, and Rerank models. 20 req/min, 1,000 req/month.
 - [DeepSeek Platform](https://deepseek.com/) — Free API credits for new users (5M tokens). Access to DeepSeek V4, DeepSeek-R1, and other models. Generous free allocation.
@@ -103,7 +103,7 @@ Providers offering free tiers to access models via API — no local hardware req
 
 ## 💻 Local Inference Tools
 
-> 📅 Last checked: July 4, 2026
+> 📅 Last checked: July 9, 2026
 
 Run models on your own machine — no API keys needed, full privacy.
 
@@ -136,7 +136,7 @@ Run models on your own machine — no API keys needed, full privacy.
 
 ## 💬 AI Chatbot UIs
 
-> 📅 Last checked: July 4, 2026
+> 📅 Last checked: July 9, 2026
 
 Free, open-source web interfaces for chatting with AI models — self-host or use hosted versions.
 
@@ -150,17 +150,17 @@ Free, open-source web interfaces for chatting with AI models — self-host or us
 
 ## 🤖 AI Coding Assistants
 
-> 📅 Last checked: July 4, 2026
+> 📅 Last checked: July 9, 2026
 
 Free tools that integrate AI into your development workflow.
 
-- [Continue.dev](https://www.continue.dev/) — **Acquired by Cursor.** Open-source AI code assistant for VS Code and JetBrains. [GitHub](https://github.com/continuedev/continue) *(read-only)*
+- [Continue.dev](https://www.continue.dev/) — **Acquired by Cursor.** Open-source AI code assistant for VS Code and JetBrains. [GitHub](https://github.com/continuedev/continue)
 - [Aider](https://aider.chat/) — AI pair programming in the terminal. Edits code in your local git repo. Supports GPT, Claude, and local models. [GitHub](https://github.com/Aider-AI/aider)
 - [Tabby](https://www.tabbyml.com/) — Self-hosted AI coding assistant with no dependency on external services. [GitHub](https://github.com/TabbyML/tabby)
 - [Cody (Sourcegraph)](https://sourcegraph.com/cody) — Free tier for individuals. Chat, autocomplete, and commands with codebase context.
 - [Llama Coder (Nutlope)](https://llamacoder.together.ai/) — Free AI code generation tool. Generate entire apps from prompts.
 - [Bolt.new (StackBlitz)](https://bolt.new/) — Free tier for AI-powered full-stack web app development in browser.
-- [Claude Code (Anthropic)](https://code.claude.com/docs) — Free tier with limited usage for terminal-based AI coding assistant.
+- [Claude Code (Anthropic)](https://code.claude.com/docs) — Terminal-based AI coding assistant. Most features require a Claude subscription or API credits. Limited free usage via terminal CLI.
 - [Cursor 3](https://cursor.com/) — **Apr 2026.** AI-native code editor with deep model integration and agentic features. Free tier available.
 - [CodeBuff](https://www.codebuff.com/) — CLI-based AI coding assistant that understands entire codebases. Multi-agent architecture, works with any model provider through natural language instructions.
 - [Pi](https://pi.dev/) — Open-source terminal AI coding agent with a unified multi-provider API. Model-agnostic, supports OpenAI, Anthropic, Google, and any OpenAI-compatible endpoint. Extensible plugin architecture. [GitHub](https://github.com/earendil-works/pi)
@@ -172,7 +172,7 @@ Free tools that integrate AI into your development workflow.
 
 ## 📝 Code Models
 
-> 📅 Last checked: July 4, 2026
+> 📅 Last checked: July 9, 2026
 
 Specialized for code generation, completion, and analysis.
 
@@ -198,7 +198,7 @@ Specialized for code generation, completion, and analysis.
 
 ## 🔍 RAG & Vector Databases
 
-> 📅 Last checked: July 4, 2026
+> 📅 Last checked: July 9, 2026
 
 Free tools for building retrieval-augmented generation pipelines — vector storage, embedding search, and document retrieval.
 
@@ -217,7 +217,7 @@ Free tools for building retrieval-augmented generation pipelines — vector stor
 
 ## 🧩 Agentic Frameworks
 
-> 📅 Last checked: July 4, 2026
+> 📅 Last checked: July 9, 2026
 
 Free, open-source frameworks for building AI agents and multi-agent systems.
 
@@ -250,7 +250,7 @@ Free, open-source frameworks for building AI agents and multi-agent systems.
 
 ## 🎛 Fine-tuning Tools
 
-> 📅 Last checked: July 4, 2026
+> 📅 Last checked: July 9, 2026
 
 Tools to fine-tune free models on your own data — all free and open-source.
 
@@ -265,7 +265,7 @@ Tools to fine-tune free models on your own data — all free and open-source.
 
 ## ✨ Prompt Engineering Tools
 
-> 📅 Last checked: July 4, 2026
+> 📅 Last checked: July 9, 2026
 
 Free tools for testing, managing, and optimizing prompts.
 
@@ -279,7 +279,7 @@ Free tools for testing, managing, and optimizing prompts.
 
 ## 📊 Datasets
 
-> 📅 Last checked: July 4, 2026
+> 📅 Last checked: July 9, 2026
 
 Free, open datasets for training, fine-tuning, and evaluating models.
 
@@ -297,7 +297,7 @@ Free, open datasets for training, fine-tuning, and evaluating models.
 
 ## ☁ Model Hosting Platforms
 
-> 📅 Last checked: July 4, 2026
+> 📅 Last checked: July 9, 2026
 
 Free platforms that host models — run inference without downloading anything.
 
@@ -314,7 +314,7 @@ Free platforms that host models — run inference without downloading anything.
 
 ## 📚 Learning Resources
 
-> 📅 Last checked: July 4, 2026
+> 📅 Last checked: July 9, 2026
 
 Free courses, books, and tutorials for learning AI and LLMs.
 
@@ -332,7 +332,7 @@ Free courses, books, and tutorials for learning AI and LLMs.
 
 ## 🏆 Resources & Leaderboards
 
-> 📅 Last checked: July 4, 2026
+> 📅 Last checked: July 9, 2026
 
 - [Perplexity](https://www.perplexity.ai/) — Free AI search and research assistant with real-time answers and source citations.
 - [Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) — The primary benchmark for open-weight models. Updated regularly.
@@ -347,7 +347,7 @@ Free courses, books, and tutorials for learning AI and LLMs.
 
 ## 👥 Communities
 
-> 📅 Last checked: July 4, 2026
+> 📅 Last checked: July 9, 2026
 
 - [Hugging Face Discord](https://discord.gg/huggingface) — Model releases, discussions, and community support.
 - [r/LocalLLaMA](https://reddit.com/r/LocalLLaMA) — The largest Reddit community for running local LLMs.
