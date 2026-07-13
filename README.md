@@ -2,13 +2,13 @@
 
 > A curated list of free AI models, APIs, and tools you can use without paying a cent.
 
-![Last Updated](https://img.shields.io/badge/Last%20Checked-July%209%2C%202026-brightgreen?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last%20Checked-July%2013%2C%202026-brightgreen?style=for-the-badge)
 ![Models](https://img.shields.io/badge/Models-29-blue?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-135-blue?style=flat-square)
 ![Sections](https://img.shields.io/badge/Sections-15-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)
 
-> ✅ All links verified live on July 9, 2026. 14 entries removed (archived/dead), 20+ URLs updated for org renames, 6 acquisitions/rebrands noted.
+> ✅ All links verified live on July 13, 2026. 14 entries removed (archived/dead), 20+ URLs updated for org renames, 6 acquisitions/rebrands noted.
 
 Running AI shouldn't require a credit card. This list curates genuinely free models — open-weight models you can self-host, free API tiers from major providers, and tools to run everything locally.
 
@@ -36,7 +36,7 @@ Running AI shouldn't require a credit card. This list curates genuinely free mod
 
 ## 🧠 Open-Weight Models
 
-> 📅 Last checked: July 9, 2026
+> 📅 Last checked: July 13, 2026
 
 Notable open-weight models you can download and run on your own hardware.
 
@@ -65,7 +65,7 @@ Notable open-weight models you can download and run on your own hardware.
 
 ## 🔌 Free API Providers
 
-> 📅 Last checked: July 9, 2026
+> 📅 Last checked: July 13, 2026
 
 Providers offering free tiers to access models via API — no local hardware required.
 
@@ -87,7 +87,7 @@ Providers offering free tiers to access models via API — no local hardware req
 - [Mistral AI (La Plateforme)](https://mistral.ai/) — Free API tier with access to Mistral Large, Mistral Nemo, Codestral and more. 1 req/s, 500k tokens/min. Requires phone verification and data usage opt-in.
 - [Cohere](https://cohere.com/) — Free evaluation API key for Command R, Command R+, Embed, and Rerank models. 20 req/min, 1,000 req/month.
 - [DeepSeek Platform](https://deepseek.com/) — Free API credits for new users (5M tokens). Access to DeepSeek V4, DeepSeek-R1, and other models. Generous free allocation.
-- [GitHub Models](https://github.com/marketplace/models) — Free tier for GitHub users. Access GPT-4o, Llama 3.3, Mistral, and more with rate-limited playground and API.
+- [GitHub Models](https://github.com/marketplace?type=models) — Free tier for GitHub users. Access GPT-4o, Llama 3.3, Mistral, and more with rate-limited playground and API.
 - [Hyperbolic](https://www.hyperbolic.ai/) — Open-access AI cloud with affordable inference. Free compute credits via referral program. Supports Llama, Qwen, DeepSeek, and other open models.
 - [Novita AI](https://novita.ai/) — Free credits for testing 100+ models including Llama, Qwen, DeepSeek, and Mistral. OpenAI-compatible API with competitive pricing beyond the free tier.
 - [Anakin.ai](https://anakin.ai/) — **30 daily free credits** for accessing multiple AI models. Web chat interface and API access. Supports GPT-4, Claude, and open-weight models.
@@ -103,7 +103,7 @@ Providers offering free tiers to access models via API — no local hardware req
 
 ## 💻 Local Inference Tools
 
-> 📅 Last checked: July 9, 2026
+> 📅 Last checked: July 13, 2026
 
 Run models on your own machine — no API keys needed, full privacy.
 
@@ -111,7 +111,7 @@ Run models on your own machine — no API keys needed, full privacy.
 - [LM Studio](https://lmstudio.ai/) — Polished desktop GUI. Browse, download, and chat with models. Built-in model browser and local API server.
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) — High-performance C++ inference engine. Runs on CPU and GPU. Supports GGUF quantization. Powers most other local tools.
 - [Jan](https://www.jan.ai/) — Open-source ChatGPT alternative for desktop. Built-in model downloader, local API server. [GitHub](https://github.com/janhq/jan)
-- [GPT4All](https://www.nomic.ai/gpt4all) — Privacy-focused local chatbot. Runs on consumer hardware. Built-in model browser. [GitHub](https://github.com/nomic-ai/gpt4all)
+- [GPT4All](https://www.nomic.ai/gpt4all) — Privacy-focused local chatbot. Runs on consumer hardware. Built-in model browser. **Note: Last release Feb 2025. Consider newer alternatives.** [GitHub](https://github.com/nomic-ai/gpt4all)
 - [text-generation-webui (Oobabooga)](https://github.com/oobabooga/textgen) — Feature-rich web UI. Supports multiple backends (Transformers, llama.cpp, ExLlama, AutoGPTQ).
 - [LocalAI](https://localai.io/) — Drop-in OpenAI API replacement. Run models locally with an OpenAI-compatible API. [GitHub](https://github.com/mudler/LocalAI)
 - [KoboldCPP](https://github.com/LostRuins/koboldcpp) — Single-file executable for running GGUF models. Focused on story generation but general-purpose.
@@ -136,7 +136,7 @@ Run models on your own machine — no API keys needed, full privacy.
 
 ## 💬 AI Chatbot UIs
 
-> 📅 Last checked: July 9, 2026
+> 📅 Last checked: July 13, 2026
 
 Free, open-source web interfaces for chatting with AI models — self-host or use hosted versions.
 
@@ -150,7 +150,7 @@ Free, open-source web interfaces for chatting with AI models — self-host or us
 
 ## 🤖 AI Coding Assistants
 
-> 📅 Last checked: July 9, 2026
+> 📅 Last checked: July 13, 2026
 
 Free tools that integrate AI into your development workflow.
 
@@ -172,7 +172,7 @@ Free tools that integrate AI into your development workflow.
 
 ## 📝 Code Models
 
-> 📅 Last checked: July 9, 2026
+> 📅 Last checked: July 13, 2026
 
 Specialized for code generation, completion, and analysis.
 
@@ -198,7 +198,7 @@ Specialized for code generation, completion, and analysis.
 
 ## 🔍 RAG & Vector Databases
 
-> 📅 Last checked: July 9, 2026
+> 📅 Last checked: July 13, 2026
 
 Free tools for building retrieval-augmented generation pipelines — vector storage, embedding search, and document retrieval.
 
@@ -209,7 +209,7 @@ Free tools for building retrieval-augmented generation pipelines — vector stor
 - [Weaviate](https://weaviate.io/) — Open-source vector database. Free sandbox tier on Weaviate Cloud. [GitHub](https://github.com/weaviate/weaviate)
 - [Milvus (Zilliz)](https://zilliz.com/) — Cloud-native vector database. Free tier on Zilliz Cloud or self-host. [GitHub](https://github.com/milvus-io/milvus)
 - [txtai](https://neuml.github.io/txtai/) — AI-powered semantic search and RAG in a single Python package. [GitHub](https://github.com/neuml/txtai)
-- [R2R (SciPhi)](https://github.com/SciPhi-AI/R2R) — Production-ready RAG engine with API, user management, and observability.
+- [R2R (SciPhi)](https://github.com/SciPhi-AI/R2R) — Production-ready RAG engine with API, user management, and observability. **Note: Last release Jun 2025. Consider alternatives like Dify or LangGraph.**
 - [Docling (IBM)](https://www.docling.ai/) — Document understanding and conversion for RAG pipelines. Extracts PDFs, images, and more. [GitHub](https://github.com/docling-project/docling)
 - [Unstructured.io](https://unstructured.io/) — Preprocessing toolkit for documents (PDF, HTML, Word) for RAG pipelines. Free tier available.
 
@@ -217,7 +217,7 @@ Free tools for building retrieval-augmented generation pipelines — vector stor
 
 ## 🧩 Agentic Frameworks
 
-> 📅 Last checked: July 9, 2026
+> 📅 Last checked: July 13, 2026
 
 Free, open-source frameworks for building AI agents and multi-agent systems.
 
@@ -238,7 +238,7 @@ Free, open-source frameworks for building AI agents and multi-agent systems.
 - [Atomic Agents](https://github.com/Eigenwise/atomic-agents) — Framework inspired by Atomic Design. Compose agents from small, reusable, modular components. Testable and scalable.
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) — Low-code multi-agent framework. Define agent roles, tasks, and flows via YAML configuration. Wraps underlying agent frameworks.
 - [Cognee](https://github.com/topoteretes/cognee) — GraphRAG framework for agent knowledge management. Builds interconnected knowledge graphs from unstructured data.
-- [MetaGPT](https://github.com/FoundationAgents/MetaGPT) — Multi-agent framework simulating a full software team. Assigns Agent, Product Manager, Engineer roles. Implements SOPs for end-to-end code generation.
+- [MetaGPT](https://github.com/FoundationAgents/MetaGPT) — Multi-agent framework simulating a full software team. Assigns Agent, Product Manager, Engineer roles. Implements SOPs for end-to-end code generation. **Note: Last release Apr 2024. Effectively unmaintained.**
 - [ChatDev (OpenBMB)](https://github.com/OpenBMB/ChatDev) — Virtual software company driven by multi-agent collaboration. Follows waterfall model through design, coding, testing, and documentation.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — The original autonomous agent experiment. Sets its own goals, iterates on tasks, and executes without continuous human input. Web browsing and file management.
 - [Bee Agent Framework (IBM)](https://github.com/i-am-bee/beeai-framework) — Production-ready framework for building reliable AI agents in Python and TypeScript. Modular, with built-in observability and IBM research optimizations.
@@ -250,7 +250,7 @@ Free, open-source frameworks for building AI agents and multi-agent systems.
 
 ## 🎛 Fine-tuning Tools
 
-> 📅 Last checked: July 9, 2026
+> 📅 Last checked: July 13, 2026
 
 Tools to fine-tune free models on your own data — all free and open-source.
 
@@ -265,7 +265,7 @@ Tools to fine-tune free models on your own data — all free and open-source.
 
 ## ✨ Prompt Engineering Tools
 
-> 📅 Last checked: July 9, 2026
+> 📅 Last checked: July 13, 2026
 
 Free tools for testing, managing, and optimizing prompts.
 
@@ -279,7 +279,7 @@ Free tools for testing, managing, and optimizing prompts.
 
 ## 📊 Datasets
 
-> 📅 Last checked: July 9, 2026
+> 📅 Last checked: July 13, 2026
 
 Free, open datasets for training, fine-tuning, and evaluating models.
 
@@ -297,7 +297,7 @@ Free, open datasets for training, fine-tuning, and evaluating models.
 
 ## ☁ Model Hosting Platforms
 
-> 📅 Last checked: July 9, 2026
+> 📅 Last checked: July 13, 2026
 
 Free platforms that host models — run inference without downloading anything.
 
@@ -314,7 +314,7 @@ Free platforms that host models — run inference without downloading anything.
 
 ## 📚 Learning Resources
 
-> 📅 Last checked: July 9, 2026
+> 📅 Last checked: July 13, 2026
 
 Free courses, books, and tutorials for learning AI and LLMs.
 
@@ -332,7 +332,7 @@ Free courses, books, and tutorials for learning AI and LLMs.
 
 ## 🏆 Resources & Leaderboards
 
-> 📅 Last checked: July 9, 2026
+> 📅 Last checked: July 13, 2026
 
 - [Perplexity](https://www.perplexity.ai/) — Free AI search and research assistant with real-time answers and source citations.
 - [Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) — The primary benchmark for open-weight models. Updated regularly.
@@ -347,7 +347,7 @@ Free courses, books, and tutorials for learning AI and LLMs.
 
 ## 👥 Communities
 
-> 📅 Last checked: July 9, 2026
+> 📅 Last checked: July 13, 2026
 
 - [Hugging Face Discord](https://discord.gg/huggingface) — Model releases, discussions, and community support.
 - [r/LocalLLaMA](https://reddit.com/r/LocalLLaMA) — The largest Reddit community for running local LLMs.
